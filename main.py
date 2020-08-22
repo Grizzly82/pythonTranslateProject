@@ -1,5 +1,8 @@
 from translate import Translator
 
+#Link to ISO lang codes : http://www.lingoes.net/en/translator/langcode.htm
+# es=Spanish, ja=Japanese, zh=Chinese ...
+
 translator = Translator(to_lang="es")
 
 try:
